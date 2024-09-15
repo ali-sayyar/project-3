@@ -1,2 +1,2 @@
 # template-3
-Flexible HTML and CSS template for mobile and all screens
+Professional and flexible html and css template for mobile and all screens
